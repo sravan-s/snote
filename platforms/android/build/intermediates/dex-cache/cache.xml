@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ss192/Snote/sharenote/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="33e48fcac93dfafb85a69ccd9cc77cd17ec8f2f4">
+        <dex dex="/home/ss192/Snote/sharenote/platforms/android/build/intermediates/pre-dexed/debug/classes-1cc56c3877fb16325a2e1e227cc3c5fbe8c8d131.jar" />
+    </item>
+
+</items>

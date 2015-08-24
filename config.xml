@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Share Note</name>
+    <description>
+        An elearning application to share wtudy material
+    </description>
+    <author email="qasas" href="http://cordova.io">
+        Qasas Dev. Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-whitelist" version="1" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <access origin="http://*/*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <access origin="*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+</widget>

@@ -1,0 +1,2 @@
+/home/ss192/Snote/sharenote/platforms/android/build/intermediates/classes/debug
+/home/ss192/Snote/sharenote/platforms/android/build/intermediates/pre-dexed/debug/classes-1cc56c3877fb16325a2e1e227cc3c5fbe8c8d131.jar

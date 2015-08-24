@@ -1,0 +1,20 @@
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+   
+}
+
+#listNextBtn{
+    margin: 0;
+}
+
+.noteBlock {
+    display: block;
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 2px;
+}
